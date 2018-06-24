@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>ActionButton.qml</file>
+        <file>DownloadListDelegate.qml</file>
+        <file>prosaic-download-queue.js</file>
+        <file>ProsaicDefine.js</file>
+    </qresource>
+</RCC>
